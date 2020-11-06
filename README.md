@@ -1,3 +1,4 @@
 La Farmacia landing page
 
-www.lafarmacia.com.ar
+lafarmacia.com.ar
+
